@@ -1,16 +1,15 @@
-![image](https://user-images.githubusercontent.com/32132152/108957408-c074c100-76b4-11eb-8b3c-bec082ec80c9.png)
 
-고객사 시스템 구축
+######**고객사 시스템 구축**
 1. AWS 클라우드 환경 구성을 구축합니다.
 2. 쿠버네티스 기반의 EKS 환경 구성과 웹 서비스 구축합니다.
 
-고객사 시스템 운영
+######**고객사 시스템 운영**
 1. EKS 환경에서 로그 수집을 위한 EFK Stack을 구축합니다.
 2. 백업 및 복구 정책, 보안 정책, 모니터링, 타사 솔루션 검토를 진행합니다
 
+![image](https://user-images.githubusercontent.com/32132152/108957408-c074c100-76b4-11eb-8b3c-bec082ec80c9.png)
 
-
-1주차
+**1주차**
 
 ![image](https://user-images.githubusercontent.com/32132152/108957838-81933b00-76b5-11eb-825a-bd2c49367f22.png)
 
@@ -37,7 +36,7 @@
 
 
 
-2주차
+**2주차**
 
 : 쿠버네티스 기반의 EKS 환경 구성과 웹 서비스 구축
 
@@ -64,7 +63,7 @@
 
 
 
-3주차
+**3주차**
 
 : EFK Stack 구축을 통한 로그 수집
 
@@ -83,28 +82,27 @@
 
 ![image](https://user-images.githubusercontent.com/32132152/108959743-2dd62100-76b8-11eb-87f8-6cc2e92f3abd.png)
 
-Elastic Search 배포 후 pod, service, web 화면
+*Elastic Search 배포 후 pod, service, web 화면
 
 ![image](https://user-images.githubusercontent.com/32132152/108959833-54945780-76b8-11eb-94e6-e90d76f6a5f3.png)
 
-Kibana 배포 후 pod, service, web 화면
+*Kibana 배포 후 pod, service, web 화면
 
 ![image](https://user-images.githubusercontent.com/32132152/108959883-683fbe00-76b8-11eb-87e6-5b84343f8a39.png)
 
-
 ![image](https://user-images.githubusercontent.com/32132152/108959903-71308f80-76b8-11eb-8ba7-9453b0de04a2.png)
 
-fluentd 배포 후 pod 화면
+*fluentd 배포 후 pod 화면
 
 ![image](https://user-images.githubusercontent.com/32132152/108959943-7db4e800-76b8-11eb-9d28-f256206bd5b9.png)
 
-Kibana에서 로그 수집하여 시각화한 화면
+*Kibana에서 로그 수집하여 시각화한 화면
 
 ![image](https://user-images.githubusercontent.com/32132152/108959981-8c9b9a80-76b8-11eb-9394-d327477645c9.png)
 
 
 
-4주차
+**4주차**
 
 AWS 시스템 운영
 : 운영하면서 고려할 사항, 백업 및 복구 정책, 모니터링 요소와 서비스 활용, 타사 솔루션 검토
@@ -116,7 +114,7 @@ AWS 시스템 운영
 
 
 
-5주차
+**5주차**
 
 1. 운영이란 ?
 2. 휴먼 에러 사례
